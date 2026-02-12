@@ -1,0 +1,16 @@
+Configs: {
+	ModConfig_EveryoneAsOne: {
+		DisplayName: Mod Config_ Everyone As One
+		Headers.Swap: Swap Header
+
+		ticksPerSwap: {
+			Label: ticks Per Swap
+			Tooltip: ""
+		}
+
+		copyBuffs: {
+			Label: copy Buffs
+			Tooltip: ""
+		}
+	}
+}

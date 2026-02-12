@@ -1,0 +1,3 @@
+displayName = Everyone as One Player
+author = oxy
+version = 0.1
